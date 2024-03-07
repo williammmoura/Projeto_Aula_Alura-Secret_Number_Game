@@ -2,6 +2,8 @@
   <h1>Secret Number Game</h1>
 </div>
 
+Obs.:Este projeto foi feito durante a aula do curso de lógica de programação da Alura.
+
 Este projeto consiste em um jogo simples em JavaScript no qual o jogador precisa adivinhar um número secreto entre 1 e 100. O jogo fornece feedback ao jogador após cada tentativa até que ele adivinhe corretamente o número secreto.
 
 ## Instruções
